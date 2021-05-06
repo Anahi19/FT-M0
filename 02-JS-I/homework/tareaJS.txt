@@ -1,0 +1,5 @@
+Variable: es el qeu le da nombre y valor a algun numero
+Strings: es para poder poner textos
+Funciones (argumentos, return): es para hacer cambios o dar opciones en un solo lugar si afectar todo lo demas
+Declaraciones if: es una afrimacion
+es para determinar si es verdadero o falso cierto operacion
