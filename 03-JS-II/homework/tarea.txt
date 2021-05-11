@@ -1,0 +1,4 @@
+concepto de for:
+es para crar una caja donde contiene varios codigos
+concepto de &&, ||, !:
+son expersiones que se utilizan en los codigos
