@@ -1,0 +1,2 @@
+Arrays:
+es para hacer arreglos con agregar, quitar o corregir algun dato
